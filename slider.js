@@ -21,6 +21,3 @@ setInterval(() => {
     imgElement.setAttribute('src', imgUrl)
     imgIndex++
 }, 1000);
-
-// const janiNa = document.getElementById('ami');
-// console.log(janiNa)
